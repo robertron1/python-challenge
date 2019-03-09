@@ -81,3 +81,4 @@ with open(csvpath, newline='') as csvfile:
         print(p)
 
  #Exportar a .TXT   
+    python FinalVotes.py > file.txt
